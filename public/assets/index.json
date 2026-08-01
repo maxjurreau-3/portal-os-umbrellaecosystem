@@ -1,0 +1,18 @@
+{
+  "icons": {
+    "os": "os-logo.svg",
+    "sim": "icon-sim.svg",
+    "operators": "icon-operators.svg",
+    "xr": "icon-xr.svg",
+    "identityPhysics": "icon-identity-physics.svg",
+    "games": "icon-games.svg"
+  },
+  "backgrounds": {
+    "surface": "bg-surface-hd.png",
+    "dock": "bg-dock-hd.png"
+  },
+  "ui": {
+    "notification": "notification-hd.png",
+    "cursor": "cursor-default-hd.png"
+  }
+}
