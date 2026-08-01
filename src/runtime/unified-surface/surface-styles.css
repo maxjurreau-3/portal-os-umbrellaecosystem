@@ -1,0 +1,12 @@
+.unified-surface {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 64px;
+  background: url("/assets/bg-surface.png");
+  background-size: cover;
+  color: white;
+  font-size: 20px;
+  padding: 20px;
+}
