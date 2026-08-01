@@ -1,0 +1,19 @@
+.notification-center {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  width: 260px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.notification-item {
+  background: rgba(255,255,255,0.08);
+  padding: 10px 14px;
+  border-radius: 6px;
+  color: white;
+  font-size: 14px;
+  backdrop-filter: blur(4px);
+  border: 1px solid rgba(255,255,255,0.15);
+}
