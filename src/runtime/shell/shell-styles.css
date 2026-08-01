@@ -1,0 +1,7 @@
+.os-shell {
+  position: absolute;
+  inset: 0;
+  background: #111;
+  overflow: hidden;
+  font-family: system-ui, sans-serif;
+}
